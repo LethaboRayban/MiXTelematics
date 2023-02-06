@@ -1,0 +1,17 @@
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.csproj.AssemblyReference.cache
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.AssemblyInfoInputs.cache
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.AssemblyInfo.cs
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.csproj.CoreCompileInputs.cache
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\bin\Debug\net6.0\NearestVehiclePositions.exe
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\bin\Debug\net6.0\NearestVehiclePositions.deps.json
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\bin\Debug\net6.0\NearestVehiclePositions.runtimeconfig.json
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\bin\Debug\net6.0\NearestVehiclePositions.dll
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\bin\Debug\net6.0\NearestVehiclePositions.pdb
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\bin\Debug\net6.0\GeolocationNetStandard.dll
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.csproj.CopyComplete
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.dll
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\refint\NearestVehiclePositions.dll
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.pdb
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\NearestVehiclePositions.genruntimeconfig.cache
+C:\Users\mo5009\source\repos\NearestVehiclePositions\NearestVehiclePositions\obj\Debug\net6.0\ref\NearestVehiclePositions.dll
